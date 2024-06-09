@@ -1,5 +1,5 @@
 ## Fast Point Completion Network
-Code for "Chenghao Fang, Bing Yang, Hailiang Ye, Feilong Cao, Fast Point Completion Network, Neural Computing and Applications, 2024, 36:10897–10913."[Link](https://link.springer.com/article/10.1007/s00521-024-09624-y)
+Code for "Chenghao Fang, Bing Yang, Hailiang Ye, Feilong Cao, Fast Point Completion Network, Neural Computing and Applications, 2024, 36:10897–10913."[Link](https://link.springer.com/article/10.1007/s00521-024-09624-y).
 Please cite this work when you use this code.
 
 ![image](https://github.com/doldolOuO/FPCN/blob/main/FPCN.png)
